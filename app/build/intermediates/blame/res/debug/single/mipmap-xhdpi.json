@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

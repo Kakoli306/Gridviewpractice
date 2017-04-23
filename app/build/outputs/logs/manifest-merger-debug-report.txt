@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/kakoli/.android/build-cache/442dc0b08a3d6a933fd29c5b885a6ff7feca59a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kakoli/.android/build-cache/ca485f2058b72d1999d8d7aa7b315c9fdf82b27e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kakoli/.android/build-cache/69279c8f732667db310b28d76a4165dd1437c86d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kakoli/.android/build-cache/1b12758621058a4fa7f1d66c65fa91b085c7cab0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/3e150c3b4966a57aeb5f047b4bdd009596bb0a6c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/1f21965a40c0229cca1e0ab268bd847d54577622/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kakoli/.android/build-cache/d4655553747f3b5406c6c44a874cb50daabe41e0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/kakoli/.android/build-cache/a71a4ad57b4302a431861f491637454c661cd2d5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kakoli/.android/build-cache/5a86688b85d3fac37a0b3fb0275012589c4fb115/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.shraaboni.gridviewpractice.MainActivity
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/kakoli/.android/build-cache/442dc0b08a3d6a933fd29c5b885a6ff7feca59a7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kakoli/.android/build-cache/ca485f2058b72d1999d8d7aa7b315c9fdf82b27e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kakoli/.android/build-cache/69279c8f732667db310b28d76a4165dd1437c86d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kakoli/.android/build-cache/1b12758621058a4fa7f1d66c65fa91b085c7cab0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/3e150c3b4966a57aeb5f047b4bdd009596bb0a6c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/1f21965a40c0229cca1e0ab268bd847d54577622/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/kakoli/.android/build-cache/0e8dc0a310c2eb9ff8e753f1ceb034a9c380c201/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kakoli/.android/build-cache/d4655553747f3b5406c6c44a874cb50daabe41e0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/kakoli/.android/build-cache/a71a4ad57b4302a431861f491637454c661cd2d5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kakoli/.android/build-cache/5a86688b85d3fac37a0b3fb0275012589c4fb115/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kakoli/Documents/STUDY/ANDROID APPLICATION-BITM/Studio/Gridviewpractice/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/kakoli/.android/build-cache/442dc0b08a3d6a933fd29c5b885a6ff7feca59a7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kakoli/.android/build-cache/ca485f2058b72d1999d8d7aa7b315c9fdf82b27e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kakoli/.android/build-cache/69279c8f732667db310b28d76a4165dd1437c86d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kakoli/.android/build-cache/1b12758621058a4fa7f1d66c65fa91b085c7cab0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/3e150c3b4966a57aeb5f047b4bdd009596bb0a6c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kakoli/.android/build-cache/1f21965a40c0229cca1e0ab268bd847d54577622/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/kakoli/.android/build-cache/0e8dc0a310c2eb9ff8e753f1ceb034a9c380c201/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kakoli/.android/build-cache/d4655553747f3b5406c6c44a874cb50daabe41e0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/kakoli/.android/build-cache/a71a4ad57b4302a431861f491637454c661cd2d5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/kakoli/.android/build-cache/91bfb3bce867d9fcfaefe08659e4ed767205458f/output/AndroidManifest.xml:26:9-47
